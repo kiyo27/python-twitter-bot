@@ -3,7 +3,7 @@
 ## インストール
 
 ```
-pip install tweepy
+pip install tweepy boto3
 ```
 
 ## qiita のリンクを twitter に投稿
